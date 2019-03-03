@@ -21,7 +21,7 @@ none
 ###Projects**
 
 _tic-tac-toe Game_
-Project:https://github.com/AlesyaSA/tic-tac-toe
+[Project:](https://github.com/AlesyaSA/tic-tac-toe)
 Environment: HTML, CSS, JavaScript
 
 _guessing-game_
