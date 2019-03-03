@@ -20,26 +20,23 @@ none
 
 ###Projects**
 
-_tic-tac-toe Game_
-[Project:](https://github.com/AlesyaSA/tic-tac-toe)
+[_tic-tac-toe Game_](https://github.com/AlesyaSA/tic-tac-toe)
 Environment: HTML, CSS, JavaScript
 
-_guessing-game_
-Project:https://github.com/AlesyaSA/guessing-game
+[_guessing-game_](https://github.com/AlesyaSA/guessing-game)
 Environment: HTML, CSS, JavaScript
 
-_frontend-nanodegree-mobile-portfolio_
-Project: https://github.com/AlesyaSA/frontend-nanodegree-mobile-portfolio
+[_frontend-nanodegree-mobile-portfolio_](https://github.com/AlesyaSA/frontend-nanodegree-mobile-portfolio)
 Environment: HTML, CSS, JavaScript
 
 
 
 ###Rolling scopes
 Also I’ve made the following 2 talks:
-https://github.com/AlesyaSA/rsschool-2019Q1-cv
-https://github.com/AlesyaSA/rsschool-2019Q1-html-css
+[HTML + CSS basics courses](https://github.com/AlesyaSA/rsschool-2019Q1-cv)
+[Git & Markdown](https://github.com/AlesyaSA/rsschool-2019Q1-html-css)
 
 ###Education
-The Rolling Scopes School (https://school.rollingscopes.com/), 02.2019 – ..., 
-Belarusian State University, Minsk, Belarus  09.2018-2020                                                                           
+[The Rolling Scopes School](https://school.rollingscopes.com/), 02.2019 – ..., 
+[Belarusian State University](https://www.bsu.by/), Minsk, Belarus  09.2018-2020                                                                           
 
