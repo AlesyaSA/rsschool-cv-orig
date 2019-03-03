@@ -1,14 +1,14 @@
-**Alesya Andreevna Bairasheuskaya
+**Alesya Andreevna Bairasheuskaya**
 
 Telephone number: +375296823701
 E-mail: alesyashubkina@gmail.com
 github - https://github.com/AlesyaSA 
 English:intermediate(B1)
-------------
+
 ###Summary of Qualifications
 
 Basic knowledge of HTML, CSS/SCSS, JavaScript.
---------------
+
 ###Technical Skills
 
 _Programming languages and technologies_: JavaScript, HTML, CSS
