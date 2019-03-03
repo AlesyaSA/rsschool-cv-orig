@@ -30,8 +30,8 @@ Environment: HTML, CSS, JavaScript
 
 **Rolling scopes**
 Also I’ve made the following 2 talks:
-[HTML + CSS basics courses](https://github.com/AlesyaSA/rsschool-2019Q1-cv)
-[Git & Markdown](https://github.com/AlesyaSA/rsschool-2019Q1-html-css)
+  1. [HTML + CSS basics courses](https://github.com/AlesyaSA/rsschool-2019Q1-cv)
+  2. [Git & Markdown](https://github.com/AlesyaSA/rsschool-2019Q1-html-css)
 
 **Education**
 * [The Rolling Scopes School](https://school.rollingscopes.com/)
