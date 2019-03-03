@@ -22,11 +22,11 @@ none
 
 **Projects**
 
-*[_tic-tac-toe Game_](https://github.com/AlesyaSA/tic-tac-toe)
+* [_tic-tac-toe Game_](https://github.com/AlesyaSA/tic-tac-toe)
 Environment: HTML, CSS, JavaScript
-*[_guessing-game_](https://github.com/AlesyaSA/guessing-game)
+* [_guessing-game_](https://github.com/AlesyaSA/guessing-game)
 Environment: HTML, CSS, JavaScript
-*[_frontend-nanodegree-mobile-portfolio_](https://github.com/AlesyaSA/frontend-nanodegree-mobile-portfolio)
+* [_frontend-nanodegree-mobile-portfolio_](https://github.com/AlesyaSA/frontend-nanodegree-mobile-portfolio)
 Environment: HTML, CSS, JavaScript
 
 
