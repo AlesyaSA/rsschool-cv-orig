@@ -1,1 +1,1 @@
- https://AlesyaSA/rsschool-2019Q1-cv/cv.
+https://AlesyaSA.github.io/rsschool-2019Q1-cv/cv
